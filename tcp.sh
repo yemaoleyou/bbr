@@ -6,8 +6,8 @@ export PATH
 #	System Required: CentOS 6/7,Debian 8/9,Ubuntu 16+
 #	Description: BBR+BBR魔改版+BBRplus+Lotserver
 #	Version: 1.3.1
-#	Author: 千影,cx9208
-#	Blog: https://www.94ish.me/
+#	Author: 野猫乐游
+#	Blog: https://www.yemaoleyou.ga/
 #=================================================
 
 sh_ver="1.3.1"
@@ -330,7 +330,7 @@ Update_Shell(){
 start_menu(){
 clear
 echo && echo -e " TCP加速 一键安装管理脚本 ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
-  -- 就是爱生活 | 94ish.me --
+  -- 野猫乐游 | https://www.yemaoleyou.ga/
   
  ${Green_font_prefix}0.${Font_color_suffix} 升级脚本
 ————————————内核管理————————————
